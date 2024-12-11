@@ -7,3 +7,5 @@ Ci sono 4 cartelle:
 - shared -> per il servizio: cart.service (per gestire le quantità da salvare tra il carrello ed il checkout).
 - assets: dentro ci sono le immagini che servono (utilizzate nei due componenti).
 
+NOTA: I miei componenti sono adattati per un'app, ma ci sono ancora cose da migliorare per renderli adatti ad una pagina web.
+
